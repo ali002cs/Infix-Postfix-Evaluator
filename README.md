@@ -38,4 +38,4 @@ To compile and run this project, you need a C++ compiler supporting at least C++
 Clone the repository and compile the source code using the following terminal command:
 
 ```bash
-g++ -std=c++11 main.cpp -o expression_evaluator
+g++ -std=c++11 q1.cpp -o expression_evaluator
